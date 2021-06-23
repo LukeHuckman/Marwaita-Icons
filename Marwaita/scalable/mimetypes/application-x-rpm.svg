@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg97" inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)" sodipodi:docname="application-vnd.android.package-archive.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<sodipodi:namedview  inkscape:current-layer="g95" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:window-x="0" inkscape:window-height="1021" inkscape:window-width="1920" inkscape:pageshadow="2" inkscape:pageopacity="0" inkscape:cy="19.797312" inkscape:cx="10.35745" inkscape:zoom="19.666667" showgrid="false" id="namedview99" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff">
+	</sodipodi:namedview>
+<title  id="title2">elementary Icon Template</title>
+<g id="g95" transform="translate(-128,-179)">
+	<path id="path83-5" inkscape:connector-curvature="0" opacity="0.2" enable-background="new    " d="M133.765,183.02h20.142
+		c1.176,0,1.704-0.207,2.043,0.722l2.05,5.773v18.527c0,1.121,0.07,0.949-1.105,0.949h-25.787c-1.176,0-1.105,0.172-1.105-0.949
+		v-18.527l2.05-5.773C132.378,182.832,132.589,183.02,133.765,183.02z"/>
+	
+		<linearGradient id="path83_1_" gradientUnits="userSpaceOnUse" x1="342.8633" y1="735.5771" x2="342.8747" y2="758.0981" gradientTransform="matrix(0.8755 0 0 1.1237 -156.181 -643.8014)">
+		<stop  offset="0" style="stop-color:#C7AE8E"/>
+		<stop  offset="0.2306" style="stop-color:#C7AE8E"/>
+		<stop  offset="0.2306" style="stop-color:#DAC197"/>
+		<stop  offset="1" style="stop-color:#DAC197"/>
+	</linearGradient>
+	<path id="path83" inkscape:connector-curvature="0" fill="url(#path83_1_)" d="M133.765,182.02h20.142
+		c1.176,0,1.704-0.207,2.043,0.722l2.05,5.773v18.527c0,1.121,0.07,0.949-1.105,0.949h-25.787c-1.176,0-1.105,0.172-1.105-0.949
+		v-18.527l2.05-5.773C132.378,181.832,132.589,182.02,133.765,182.02z"/>
+	
+		<linearGradient id="path87_1_" gradientUnits="userSpaceOnUse" x1="504.4863" y1="1002.7988" x2="504.4863" y2="988.7979" gradientTransform="matrix(0.7 0 0 0.8245 -209.1404 -633.2509)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.302" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.344" style="stop-color:#FFFFFF;stop-opacity:0.643"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.391"/>
+	</linearGradient>
+	<path id="path87" inkscape:connector-curvature="0" opacity="0.3" fill="url(#path87_1_)" enable-background="new    " d="
+		M142.6,182.012h2.8v11.543c-0.276,0-0.551-0.636-0.827-0.636c-0.282,0-0.564,0.636-0.847,0.636c-0.227,0-0.454-0.557-0.681-0.557
+		c-0.148,0-0.297,0.557-0.445,0.557V182.012z"/>
+	<path id="path5715" inkscape:connector-curvature="0" fill="#FFFFFF" enable-background="new    " d="M149.396,197.429
+		c-3.409-0.201-6.335,2.397-6.537,5.805c-0.05,0.84,0.073,1.649,0.333,2.397l0.529-0.186c-0.237-0.68-0.346-1.414-0.301-2.178
+		c0.183-3.099,2.844-5.461,5.942-5.278c3.098,0.184,5.462,2.844,5.278,5.941c-0.019,0.313-0.068,0.612-0.135,0.905l0.547,0.128
+		c0.074-0.323,0.128-0.656,0.148-1C155.402,200.556,152.803,197.63,149.396,197.429z M149.329,198.55
+		c-0.454-0.025-0.908,0.011-1.354,0.108l0.104,0.555c0.399-0.09,0.808-0.124,1.217-0.101c2.478,0.145,4.368,2.273,4.222,4.752
+		c-0.013,0.188-0.036,0.375-0.072,0.558l0.563,0.035c0.034-0.187,0.06-0.372,0.072-0.56
+		C154.245,201.108,152.116,198.715,149.329,198.55L149.329,198.55z M146.52,199.216c-0.904,0.517-1.626,1.297-2.068,2.239
+		l0.487,0.291c0.387-0.851,1.026-1.558,1.833-2.027L146.52,199.216z M144.043,202.789c-0.029,0.169-0.05,0.34-0.063,0.512
+		c-0.01,0.187-0.01,0.375,0,0.563l0.568,0.032c-0.014-0.188-0.017-0.375-0.008-0.562c0.009-0.134,0.023-0.266,0.043-0.396
+		L144.043,202.789L144.043,202.789z"/>
+	<path id="path5740" sodipodi:nodetypes="ccccccccccccccccsssss" inkscape:connector-curvature="0" fill="#FFFFFF" d="
+		M154.603,205.174l-4.385-1.458v-0.007c-0.095-1.605-2.136-1.316-2.242-0.132c-0.038,0.618,0.435,1.151,1.055,1.188
+		c0.416,0.023,0.811-0.184,1.025-0.538c-0.004,0.008-0.009,0.017-0.013,0.021l4.384,1.46L154.603,205.174L154.603,205.174z
+		 M150.207,203.804c-0.003,0.02-0.006,0.036-0.01,0.057C150.201,203.84,150.204,203.823,150.207,203.804z M150.11,204.126
+		c-0.009,0.018-0.018,0.036-0.027,0.056C150.093,204.162,150.102,204.144,150.11,204.126z M149.657,203.675
+		c-0.018,0.311-0.283,0.548-0.594,0.529s-0.545-0.286-0.528-0.594c0.02-0.31,0.284-0.548,0.596-0.527
+		C149.439,203.101,149.676,203.365,149.657,203.675z"/>
+</g>
+</svg>
