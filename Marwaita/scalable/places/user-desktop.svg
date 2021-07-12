@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    version="1.1"
    viewBox="0 0 24 24"
    id="svg21"
    sodipodi:docname="user-desktop.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata25">
     <rdf:RDF>
@@ -36,20 +36,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="1402"
+     inkscape:window-height="986"
      id="namedview23"
      showgrid="false"
      inkscape:zoom="12.772116"
-     inkscape:cx="-9.4740976"
-     inkscape:cy="21.748723"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:cx="-9.5129108"
+     inkscape:cy="21.727018"
+     inkscape:window-x="626"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g7304"
      showguides="true"
      inkscape:guide-bbox="true"
-     units="px">
+     units="px"
+     inkscape:pagecheckerboard="0">
     <sodipodi:guide
        position="120.23212,64.430611"
        orientation="0,1"
@@ -66,7 +67,7 @@
          offset="0"
          id="stop2558" />
       <stop
-         style="stop-color:#d800ff;stop-opacity:1"
+         style="stop-color:#ffd323;stop-opacity:1"
          offset="1"
          id="stop2560" />
     </linearGradient>
